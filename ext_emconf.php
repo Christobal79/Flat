@@ -33,6 +33,7 @@ $EM_CONF[$_EXTKEY] = [
             'ot_divider' => '8.8.0-7.9.99'
             1.
             2.
+            3.
         ],
     ],
     'autoload' => [
